@@ -1,3 +1,7 @@
+<img align="center" alt="Code gif" src="https://raw.githubusercontent.com/kamberk/pwa-react/master/public/images/Capture.PNG" width="100%" />
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
